@@ -1,0 +1,8 @@
+# build cmds on linux or ubuntu
+
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+
+
